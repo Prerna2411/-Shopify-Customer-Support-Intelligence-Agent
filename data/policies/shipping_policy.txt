@@ -1,0 +1,13 @@
+Shipping Policy
+
+Standard domestic shipping usually arrives within 3 to 7 business days after fulfillment. Expedited shipping usually arrives within 1 to 3 business days after fulfillment. Delivery estimates are calculated from the fulfillment date, not the order placement date.
+
+Orders are normally processed within 1 to 2 business days. During major sales, holidays, severe weather, or carrier disruptions, processing and transit may take longer. Support should avoid promising a guaranteed delivery date unless the carrier service explicitly includes one.
+
+Tracking updates may take up to 24 hours after the carrier receives the package. If tracking shows "label created" for less than 48 hours, ask the customer to allow additional carrier scan time. If tracking has no movement for more than 5 business days domestically, escalate the case for carrier investigation.
+
+Customers should verify the shipping address before checkout. If an order has not entered fulfillment, support may request an address update. Once an order has shipped, address changes are not guaranteed and may need to be handled directly with the carrier.
+
+Lost package claims require the order number, tracking number, delivery address, and any carrier delivery photo or proof of delivery. If tracking says delivered but the customer cannot find the package, ask them to check nearby entrances, mail rooms, household members, and building staff before escalating.
+
+Split shipments may arrive on different days. Support should check whether the order contains multiple tracking numbers before telling the customer an item is missing.

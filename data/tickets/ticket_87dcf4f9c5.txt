@@ -1,0 +1,3 @@
+{
+  "response": "I've checked on the status of your order #9012 and see that it's still being processed. The expected delivery date was June 29, 2026, and the promised delivery date is June 30, 2026. Since the delay is currently within our expected timeframe, I'd like to provide you with an update instead of a refund at this time. I apologize for the inconvenience this has caused and appreciate your patience. I'll keep your ticket open to follow up on the status of your order."
+}

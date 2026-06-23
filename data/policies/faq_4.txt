@@ -1,0 +1,7 @@
+FAQ: Why did my payment fail?
+
+Payments can fail because of incorrect card details, insufficient funds, bank authentication, expired card, payment provider outage, address mismatch, browser issue, or network interruption. Customers should retry once after checking card details and billing address.
+
+If the payment still fails, suggest another accepted payment method such as a different card, Shop Pay, PayPal, or gift card where available. Customers should not repeatedly retry many times because banks may temporarily block further attempts.
+
+A failed payment may appear as a pending authorization in the customer's bank account. Failed authorizations are not captured by the store and usually disappear automatically based on the bank timeline.

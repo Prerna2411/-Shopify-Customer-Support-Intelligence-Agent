@@ -1,0 +1,13 @@
+Return Policy
+
+Customers may request a return within 30 days of delivery. The return window begins on the carrier delivery date, not the order date. Support should verify the order number, delivery date, product category, and reason for return before authorizing the request.
+
+Eligible items must be unused, clean, in original packaging, and include all manuals, accessories, tags, chargers, cables, and protective inserts. The customer should pack the item securely to prevent damage in transit. If the returned item is damaged because of poor return packaging, the refund may be reduced.
+
+Final sale, personalized, custom-made, opened hygiene-sensitive items, and downloadable products are not eligible for return unless they arrived damaged, defective, or incorrect. If the customer claims a defect, support should request clear photos or video showing the issue.
+
+Return labels may be provided for store errors, damaged items, incorrect items, or warranty-related returns. For preference-based returns such as wrong size, changed mind, or unwanted gift, the customer may be responsible for return shipping unless a promotion states otherwise.
+
+Once the returned item is received, inspection normally takes 2 to 4 business days. Approved refunds are sent to the original payment method. If an item fails inspection, support should explain the reason and escalate the ticket if the customer disputes the decision.
+
+International returns require human review because customs forms, duties, taxes, and return shipping cost vary by destination.

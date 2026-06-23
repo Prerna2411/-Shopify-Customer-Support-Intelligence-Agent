@@ -1,0 +1,7 @@
+FAQ: Can I change my shipping address?
+
+Shipping addresses can be changed only before fulfillment begins. Support should check the order fulfillment status before promising any change. If the order is unfulfilled, collect the corrected full address and confirm it back to the customer.
+
+If the order has already shipped, address changes are not guaranteed. The customer may need to contact the carrier or local postal service. Some carriers allow delivery management, package hold, or pickup point changes.
+
+If the address error could cause package loss, escalate the case. Do not cancel or refund a shipped order only because of an address error unless a support lead approves it.

@@ -1,0 +1,3 @@
+{
+  "response": "I've checked on your order #1004 and see that the payment failed. The bank charge you're seeing is likely a temporary authorization hold, which should fall off automatically based on your bank's timeline. This isn't a settled charge, and you won't be charged by our store. If you'd like to retry the payment, please ensure your card details and billing address are correct. If the issue persists, you can try an alternative payment method like a different card, Shop Pay, or PayPal. Please let me know if there's anything else I can help you with."
+}

@@ -1,0 +1,13 @@
+Payment Policy
+
+The store accepts major credit cards, debit cards, Shop Pay, PayPal, and gift cards where available. Available payment methods may vary by country, currency, device, and checkout configuration.
+
+Failed payments are not captured by the store. A failed payment may still appear as a temporary bank authorization, but it should fall off automatically based on the customer's bank timeline. Support should explain that failed authorization holds are controlled by the bank and are not settled charges.
+
+If a customer reports a duplicate charge, support must request the order number, amount, payment method, transaction timestamp, and a screenshot that hides full card details. Duplicate charge reports should be escalated to human support for payment verification before any refund promise is made.
+
+Gift cards can be combined with another payment method when the gift card balance is lower than the order total. Gift cards cannot usually be converted to cash unless required by law.
+
+Currency conversion, foreign transaction fees, and bank fees are controlled by the payment provider or card issuer. The store cannot refund bank fees unless a support lead approves an exception.
+
+Orders with high-risk fraud indicators, mismatched billing details, repeated failed payment attempts, or chargeback threats must be escalated before fulfillment or refund action.

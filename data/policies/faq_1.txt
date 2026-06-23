@@ -1,0 +1,7 @@
+FAQ: Where is my order?
+
+Use the tracking number from the shipping confirmation email. Tracking can take up to 24 hours to appear after the carrier receives the package. If tracking says "label created", the package may still be waiting for the first carrier scan.
+
+If the promised delivery date has not passed, provide the expected delivery date and carrier name. If the promised delivery date has passed, check whether the package is still moving. Domestic packages with no movement for more than 5 business days should be escalated. International packages with no movement for more than 14 days should be escalated.
+
+If tracking says delivered but the customer cannot find the package, ask them to check around the delivery location, mail room, reception desk, household members, and neighbors. Then escalate if the package is still missing.

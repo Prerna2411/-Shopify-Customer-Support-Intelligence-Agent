@@ -1,0 +1,3 @@
+{
+  "response": "I've checked on the status of your order #9012. The order is still being processed and has not shipped yet. Since the delay is currently within our expected timeframe, I'd like to provide you with an update on the latest delivery estimate. Unfortunately, I don't have a new estimated delivery date at this time. I apologize for the inconvenience this has caused and I'll keep your ticket open for follow-up. If the delay exceeds 7 days beyond the promised delivery date of 2026-06-30, you may be eligible for a refund. I'll be happy to assist you further at that time."
+}
