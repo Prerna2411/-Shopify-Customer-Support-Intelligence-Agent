@@ -181,15 +181,7 @@ git push -u origin main
 - Store secrets in environment variables. Example: `OPENAI_API_KEY`, `SHOPIFY_API_KEY`, `SHOPIFY_SECRET`.
 - Consider using `.env` and `python-dotenv` in development.
 
-**Contributing**
-- Please open issues and PRs. Follow the repo's coding style and testing.
 
-**License**
-- Add a license file (e.g., MIT) if you plan to open-source this repository.
-
-----
-
-If you'd like, I can also create the `Dockerfile` and a `streamlit_app.py` in the repo now — tell me to proceed.
 
 This prototype automates Shopify-style customer support tickets with a multi-agent workflow:
 
