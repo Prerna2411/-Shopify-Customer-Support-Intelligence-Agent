@@ -15,25 +15,38 @@
 
 ```mermaid
 flowchart TD
-  User[Customer / Support Agent] -->|UI / Ticket| Frontend[Frontend / Streamlit or Web UI]
-  Frontend --> API[API (FastAPI)]
-  API --> Orchestrator[Supervisor Agent / Orchestrator]
-  Orchestrator --> Intent[Intent Agent]
-  Orchestrator --> Order[Order Agent]
-  Orchestrator --> Policy[Policy Agent]
-  Orchestrator --> Reasoning[Reasoning Agent]
-  Orchestrator --> Validation[Validation Agent]
-  Policy --> RAG[RAG Retriever]
-  RAG --> VectorStore[Vector Store / Embeddings]
-  Orchestrator --> Models[Model Router -> LLM Clients]
-  Models --> Gemini[Gemini Client]
-  Models --> Groq[Groq Client]
-  Orchestrator --> Services[Services Layer]
-  Services --> Shopify[Shopify Service]
-  Services --> TicketService[Ticket Service & Escalation]
-  TicketService -->|Create/Update| Data[Data / Logs]
-  classDef infra fill:#f9f,stroke:#333,stroke-width:1px;
-  VectorStore,Data,Shopify class infra
+
+    Customer[Customer Query]
+    
+    Customer --> API[FastAPI]
+
+    API --> Supervisor[LangGraph Supervisor Agent]
+
+    Supervisor --> Intent[Intent Agent]
+    Supervisor --> Order[Order Agent]
+    Supervisor --> Policy[Policy Agent]
+
+    Order --> Shopify[Shopify Data/API]
+
+    Policy --> Retriever[RAG Retriever]
+    Retriever --> ChromaDB[ChromaDB]
+
+    Intent --> Context[Context Builder]
+    Order --> Context
+    Policy --> Context
+
+    Context --> Reasoning[Groq Llama 3.3]
+
+    Reasoning --> Validation[Gemini Flash Validation]
+
+    Validation --> Decision{Confidence Check}
+
+    Decision -->|High| Response[Auto Response]
+
+    Decision -->|Low| Human[Human Escalation]
+
+    Response --> Customer
+    Human --> Customer
 ```
 
 Quick links:
